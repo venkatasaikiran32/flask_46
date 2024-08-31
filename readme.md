@@ -1,0 +1,1 @@
+#it is the basic application to handle file uploads in flask application
